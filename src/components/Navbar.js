@@ -83,7 +83,7 @@ const Navbar = () => {
                 portfolio
               </Link>
             </li>
-            <li className="nav-item">
+            {/* <li className="nav-item">
               <Link
                 smooth={true}
                 to="contact"
@@ -94,7 +94,7 @@ const Navbar = () => {
               >
                 contact
               </Link>
-            </li>
+            </li> */}
           </ul>
         </div>
       </div>

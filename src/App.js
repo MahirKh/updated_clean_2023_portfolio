@@ -5,7 +5,7 @@ import Header from "./components/Header";
 import AboutMe from "./components/AboutMe";
 import Experience from "./components/Experience";
 import Portfolio from "./components/Portfolio";
-import Contact from "./components/Contact";
+// import Contact from "./components/Contact";
 import Footer from "./components/Footer";
 
 const App = () => {
@@ -16,7 +16,7 @@ const App = () => {
       <AboutMe />
       <Experience />
       <Portfolio />
-      <Contact />
+      {/* <Contact /> */}
       <Footer />
     </div>
   );
