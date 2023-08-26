@@ -1,4 +1,4 @@
-import author from "../images/Mahir.jpg";
+import author from "../images/Mahir_Iron_Ring.jpg";
 
 const AboutMe = () => {
   return (
