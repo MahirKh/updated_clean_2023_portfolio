@@ -55,16 +55,17 @@ const AboutMe = () => {
                 <p>
                   Technologies and Frameworks
                   <ul>
-                    <li>Nodejs</li>
-                    <li>React</li>
+                    <li>Node.js</li>
+                    <li>React.js</li>
+                    <li>React Native</li>
                     <li>Express.js</li>
+                    <li>Expo</li>
                     <li>Git</li>
                     <li>GitHub</li>
                     <li>MongoDB</li>
                     <li>Docker</li>
                     <li>AWS</li>
                     <li>Google Cloud</li>
-                    <li>Android Studio</li>
                   </ul>
                 </p>
               </div>
@@ -75,6 +76,7 @@ const AboutMe = () => {
                     <li>Visual Studio</li>
                     <li>Visual Studio Code</li>
                     <li>Arduino IDE</li>
+                    <li>Android Studio IDE</li>
                     <li>Cantata</li>
                     <li>Atlassian Development Tools</li>
                   </ul>
