@@ -197,6 +197,12 @@ nav ul li {
   color: inherit;
 }
 
+.socialMedia a:hover {
+  text-decoration: none;
+  color: var(--primary-orange);
+  transition: 0.2s ease-in-out !important;
+}
+
 /* *************** Particles ***************** */
 
 .particles-canvas {
@@ -407,6 +413,13 @@ nav ul li {
 }
 
 /* ***************** Portfolio ***************************  */
+
+@media (min-width: 1200px){
+  #portfolio .container {
+    max-width: 1500px;
+  }
+}
+
 
 .image-box-wrapper{
   text-align: center;
@@ -780,7 +793,8 @@ textarea .form-control {
 
 .footer a:hover {
   text-decoration: none;
-  color: var(--primary-orange)
+  color: var(--primary-orange);
+  transition: 0.2s ease-in-out !important;
 }
 
 .footer p {
