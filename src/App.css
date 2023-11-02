@@ -6,9 +6,10 @@
   --primary-white-hover: #9e2f2f;
   --pimrary-light-grey: #f4f4f4;
   --primary-orange: #ffc444;
-  --primary-dark: rgb(41, 75, 97);
+  --primary-dark: #294b61;
   --primary-red: #ef4035;
-  --primary-red-hover: #ef4135a9;
+  --primary-red-hover: #ffc444;
+  --primary-button-hover: #ef4135a9;
   --primary-black: #000000;
   --primary-green: green;
   /* --primary-dark: rgb(38, 124, 71); */
@@ -38,7 +39,7 @@ nav {
 
 .container .navbar-brand {
   font-size: 1.5rem;
-  color: var(--primary-red);
+  color: var(--primary-orange);
 }
 
 /* .navbar-brand:hover {
@@ -176,7 +177,7 @@ nav ul li {
 
 .btn-main-offer:hover {
   text-decoration: none;
-  background-color: var(--primary-red-hover) !important;
+  background-color: var(--primary-button-hover) !important;
   color: var(--primary-white) !important;
   transition: 0.2s ease-in-out !important;
 }
@@ -260,6 +261,16 @@ nav ul li {
   }
 }
 
+@media (min-width: 1200px) {
+  .aboutMeContainer p {
+    font-size: 1.4rem !important;
+  }
+
+  .aboutMeContainer h4 {
+    font-size: 1.7rem !important;
+  }
+}
+
 /* *************** Services ***************** */
 .services {
   text-align: center;
@@ -322,9 +333,17 @@ nav ul li {
   padding: 0.7rem;
 }
 
+/* @media(min-width: 1200px){
+  .container {
+  max-width: 1300px;
+  }
+} */
+
+
+
 .experience-wrapper {
   position: relative;
-  padding: 3.125rem;
+  /* padding: 3.125rem; */
   overflow: hidden;
 }
 
@@ -409,6 +428,17 @@ nav ul li {
     float: none;
     direction: ltr;
     width: 100%;
+  }
+}
+
+
+@media (min-width: 1200px) {
+  .aboutMeContainer p {
+    font-size: 1.4rem !important;
+  }
+
+  .aboutMeContainer h4 {
+    font-size: 1.7rem !important;
   }
 }
 

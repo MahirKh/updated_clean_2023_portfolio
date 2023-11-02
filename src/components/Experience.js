@@ -9,7 +9,7 @@ function Experience() {
         <div className="timeline-block timeline-block-right">
           <div className="marker"></div>
           <div className="timeline-content">
-            <h3> Embedded Software Developer Intern @ Molex </h3>
+            <h3> Embedded Software Developer Co-op @ Molex </h3>
             <h4>January 2022 - August 2022</h4>
             <h5>Waterloo, Ontario, Canada</h5>
             <p>
@@ -41,7 +41,7 @@ function Experience() {
         <div className="timeline-block timeline-block-left">
           <div className="marker"></div>
           <div className="timeline-content">
-            <h3> Software Developer Intern @ TD </h3>
+            <h3> Software Developer Co-op @ TD </h3>
             <h4>September 2021 - December 2021</h4>
             <h5>Toronto, ON, Canada</h5>
             <p>
@@ -65,7 +65,7 @@ function Experience() {
         <div className="timeline-block timeline-block-right">
           <div className="marker"></div>
           <div className="timeline-content">
-            <h3>Software Developer Contract @ MAX Gala </h3>
+            <h3>Full Stack Software Developer @ MAX Gala </h3>
             <h4>June 2021 - August 2021</h4>
             <h5>Toronto, ON, Canada</h5>
             <p>

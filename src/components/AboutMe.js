@@ -13,22 +13,14 @@ const AboutMe = () => {
           <div className="col-lg-8 col-xm-12">
             <h1 className="about-heading">about me</h1>
             <p>
-              Hi, I'm Mahir Khandaker—a recent Electrical and Biomedical
-              Engineering graduate with a versatile skill set and a fervent
-              passion for software development, technology innovation, and web
-              solutions. My educational journey at McMaster University, combined
-              with hands-on experiences at TD and Molex, has fueled a deep
+              Hi, my name is Mahir Khandaker - a recent Electrical and
+              Biomedical Engineering graduate with over a year of industry
+              experience working as a software developer. During these roles I
+              have worked on full-stack, database and embedded development. My
+              educational journey at McMaster University, combined with hands-on
+              experiences at Molex, TD, and MAX Gala has fueled a deep
               fascination with technology and a dedication to creating
               innovative solutions in every project I undertake.
-              <br></br>
-              <br></br>Throughout my time at McMaster University and my co-op
-              terms, I meticulously honed my technical proficiencies, with a
-              focus on communication systems, electronic circuits, and
-              object-oriented and embedded systems programming. I'm adept in
-              languages like Python, Java, C, and C++. Beyond formal education,
-              I've also ventured into the realm of full-stack development,
-              actively applying my skills to craft exceptional web and mobile
-              applications.
               <br></br>
               <br></br>
               <h4>Technical Skills</h4>
@@ -53,7 +45,7 @@ const AboutMe = () => {
               </div>
               <div class="col-md-4 col-sm-12">
                 <p>
-                  Technologies and Frameworks
+                  Technologies, Libraries and Frameworks
                   <ul>
                     <li>Node.js</li>
                     <li>React.js</li>
@@ -78,6 +70,7 @@ const AboutMe = () => {
                     <li>Arduino IDE</li>
                     <li>Android Studio IDE</li>
                     <li>Cantata</li>
+                    <li>Jenkins</li>
                     <li>Atlassian Development Tools</li>
                   </ul>
                 </p>

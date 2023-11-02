@@ -1,7 +1,7 @@
 import React from "react";
 // import Typed from "react-typed";
 import { Link } from "react-scroll";
-import Mahir_Khandaker_Resume from "./MahirKhandaker_Resume_August2023.pdf";
+import Mahir_Khandaker_Resume from "./MahirKhandaker-Resume-QR.pdf";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faLinkedin, faGithub } from "@fortawesome/free-brands-svg-icons";
 import { faEnvelope } from "@fortawesome/free-solid-svg-icons";

@@ -48,7 +48,7 @@ const Portfolio = () => {
       title: "Fit For Life Restaurant Website",
       description:
         "Elevated restaurant profitability by creating a dynamic website showcasing menus, daily deals, and an integrated online ordering system. Utilizing Node.js, I engineered the server infrastructure and achieved seamless deployment on Heroku using Git. This strategic move amplified online sales by 20% monthly and enhanced the restaurant's digital presence.",
-      skills: ": HTML, CSS, JavaScript, Node.js, Heroku CLI, GitHub, Git",
+      skills: "HTML, CSS, JavaScript, Node.js, Heroku CLI, GitHub, Git",
       youtube: "",
       github: "https://github.com/MahirKh/FitForLife_Website",
     },
